@@ -8,4 +8,4 @@ http://nbviewer.jupyter.org/github/CambridgeEngineering/PartIA-Computing-Example
 
 Interactive version of the notebooks maintained in this directory are
 available at
-https://notebooks.azure.com/garth-wells/libraries/cued-ia-ex-paper-guidance/.
+https://notebooks.azure.com/garth-wells/libraries/cued-ia-ex-paper-guidance.
